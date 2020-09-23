@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Projetos\\App-IOIO0507\\src\\applications\\HelloIOIO\\Aplicacao_IOIO-OTG\\build\\intermediates\\res\\merged\\debug\\xml\\accessory_filter.xml",
+        "source": "D:\\Projetos\\App-IOIO0507\\src\\applications\\HelloIOIO\\Aplicacao_IOIO-OTG\\build\\intermediates\\exploded-aar\\com.github.ytai.ioio\\IOIOLibAndroidAccessory\\5.07\\res\\xml\\accessory_filter.xml"
+    },
+    {
+        "merged": "D:\\Projetos\\App-IOIO0507\\src\\applications\\HelloIOIO\\Aplicacao_IOIO-OTG\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "D:\\Projetos\\App-IOIO0507\\src\\applications\\HelloIOIO\\Aplicacao_IOIO-OTG\\build\\intermediates\\exploded-aar\\com.github.ytai.ioio\\IOIOLibAndroidDevice\\5.07\\res\\xml\\device_filter.xml"
+    }
+]

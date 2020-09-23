@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Controlador do Robo</string>
+    <string name="hello">Hello, IOIO User!</string>
+    <string name="todo">TODO</string>
+</resources>

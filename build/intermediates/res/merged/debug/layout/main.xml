@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/botao_esquerda"
+        android:layout_width="117dp"
+        android:layout_height="105dp"
+        android:layout_x="36dp"
+        android:layout_y="268dp"
+        android:src="@drawable/arrow_pointing_left_96px" />
+
+    <ImageButton
+        android:id="@+id/botao_frente"
+        android:layout_width="116dp"
+        android:layout_height="107dp"
+        android:layout_x="152dp"
+        android:layout_y="160dp"
+        android:src="@drawable/thick_arrow_pointing_up_96px" />
+
+    <ImageButton
+        android:id="@+id/botao_tras"
+        android:layout_width="117dp"
+        android:layout_height="106dp"
+        android:layout_x="154dp"
+        android:layout_y="375dp"
+        android:src="@drawable/down_arrow_96px" />
+
+    <ImageButton
+        android:id="@+id/botao_direita"
+        android:layout_width="117dp"
+        android:layout_height="106dp"
+        android:layout_x="270dp"
+        android:layout_y="269dp"
+        android:src="@drawable/arrow_96px" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="126dp"
+        android:layout_height="106dp"
+        android:layout_x="144dp"
+        android:layout_y="31dp"
+        android:src="@drawable/r2d2_96px" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="326dp"
+        android:layout_height="32dp"
+        android:layout_x="0dp"
+        android:layout_y="-2dp"
+        android:text="Trabalho de Sistema Embarcados - IOIO - 2020" />
+
+</AbsoluteLayout>
