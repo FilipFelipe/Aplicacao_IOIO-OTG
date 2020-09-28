@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#252424"
+    android:orientation="vertical">
 
     <ImageButton
         android:id="@+id/botao_esquerda"
@@ -50,6 +52,31 @@
         android:layout_height="32dp"
         android:layout_x="0dp"
         android:layout_y="-2dp"
-        android:text="Trabalho de Sistema Embarcados - IOIO - 2020" />
+        android:text="Trabalho de Sistema Embarcados - IOIO-OTG - 2020" />
+
+    <SeekBar
+        android:id="@+id/barra"
+        android:layout_width="351dp"
+        android:layout_height="wrap_content"
+        android:layout_x="37dp"
+        android:layout_y="497dp"
+        android:max="100"
+        android:progress="25" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="110dp"
+        android:layout_y="536dp"
+        android:text="Porcentagem do PWM: " />
+
+    <TextView
+        android:id="@+id/texto_barra"
+        android:layout_width="48dp"
+        android:layout_height="wrap_content"
+        android:layout_x="259dp"
+        android:layout_y="536dp"
+        android:text="0" />
 
 </AbsoluteLayout>
