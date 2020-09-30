@@ -46,6 +46,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="device.file.explorer" />
   </component>
   <component name="RunManager" selected="Android App.Aplicacao_IOIO-OTG">
@@ -173,6 +176,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="477" y="251" key="#PSD" timestamp="1601323071154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="477" y="251" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1601323071154" />
     <state x="758" y="306" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600838399034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
